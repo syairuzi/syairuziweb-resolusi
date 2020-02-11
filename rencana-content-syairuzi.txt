@@ -5,4 +5,7 @@ RENCANA KONTEN SYAIRUZI
  *Framework Javascript
  *vue.js atau react.js
 -PHP framework
+ *Laravel
 -bikin blog
+-bikin website
+-Python
