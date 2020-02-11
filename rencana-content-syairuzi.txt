@@ -7,4 +7,6 @@ RENCANA KONTEN SYAIRUZI
  *vue.js atau react.js
 -PHP framework
  *Laravel
- *codeigniter
+-bikin blog
+-bikin website
+-Python
